@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3282" started-at="2021-05-04T19:59:42Z" finished-at="2021-05-04T19:59:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3282" started-at="2021-05-04T19:59:42Z" finished-at="2021-05-04T19:59:46Z">
+      <class name="webapi.testing.BodyTestWithJackson">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="setUp" is-config="true" duration-ms="223" started-at="2021-05-04T14:59:43Z" finished-at="2021-05-04T14:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="correctRateLimitsAreSet()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="correctRateLimitsAreSet" duration-ms="1158" started-at="2021-05-04T14:59:43Z" finished-at="2021-05-04T14:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctRateLimitsAreSet -->
+        <test-method status="PASS" signature="closeResources()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="closeResources" is-config="true" duration-ms="3" started-at="2021-05-04T14:59:44Z" finished-at="2021-05-04T14:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeResources -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="setUp" is-config="true" duration-ms="2" started-at="2021-05-04T14:59:44Z" finished-at="2021-05-04T14:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="notFoundMessageIsCorrect()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="notFoundMessageIsCorrect" duration-ms="400" started-at="2021-05-04T14:59:44Z" finished-at="2021-05-04T14:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notFoundMessageIsCorrect -->
+        <test-method status="PASS" signature="closeResources()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="closeResources" is-config="true" duration-ms="0" started-at="2021-05-04T14:59:44Z" finished-at="2021-05-04T14:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeResources -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="setUp" is-config="true" duration-ms="2" started-at="2021-05-04T14:59:44Z" finished-at="2021-05-04T14:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="returnsCorrectId()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="returnsCorrectId" duration-ms="774" started-at="2021-05-04T14:59:44Z" finished-at="2021-05-04T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnsCorrectId -->
+        <test-method status="PASS" signature="closeResources()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="closeResources" is-config="true" duration-ms="1" started-at="2021-05-04T14:59:45Z" finished-at="2021-05-04T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeResources -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="setUp" is-config="true" duration-ms="2" started-at="2021-05-04T14:59:45Z" finished-at="2021-05-04T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="returnsCorrectLogin()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="returnsCorrectLogin" duration-ms="667" started-at="2021-05-04T14:59:45Z" finished-at="2021-05-04T14:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnsCorrectLogin -->
+        <test-method status="PASS" signature="closeResources()[pri:0, instance:webapi.testing.BodyTestWithJackson@4ddced80]" name="closeResources" is-config="true" duration-ms="1" started-at="2021-05-04T14:59:46Z" finished-at="2021-05-04T14:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeResources -->
+      </class> <!-- webapi.testing.BodyTestWithJackson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
